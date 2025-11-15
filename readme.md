@@ -4,7 +4,7 @@
 
 BA 主题博客，基于 VitePress，绝赞画饼中
 
-[在线预览](https://vitepress-theme-bluearchive.vercel.app/)
+[在线预览](https://blog.guange.top/)
 
 ![preview](./preview.webp)
 ![preview_dark](./preview_dark.webp)
